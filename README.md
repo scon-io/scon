@@ -22,7 +22,7 @@ A hosting service for public Git repositories. I mean __seriously public__.
 Scon.io is using [GraphQL](http://graphql.org/).
 There is a single endpoint:
 ```
-https://scon.io/api
+POST https://scon.io/api
 ```
 
 #### `projects`
