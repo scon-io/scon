@@ -7,8 +7,8 @@ A hosting service for public Git repositories. I mean __seriously public__.
 
 ## Usage
 
-1. Register by using [`createUser`](#createUser) mutation.
-2. Create new project by using [`createProject`](#createProject) mutation.
+1. Register by using [`createUser`](#createuser-register) mutation.
+2. Create new project by using [`createProject`](#createproject) mutation.
 3. Clone the project you just created.
 4. Commit and push!
 
