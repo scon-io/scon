@@ -2,9 +2,6 @@
 
 A hosting service for public Git repositories. I mean __seriously public__.
 
-> 🚧 I'm keep working in progress. All data is volatile temporarily.  
-> 🚧 No front-end application yet.
-
 ## Usage
 
 1. Register by using [`createUser`](#createuser-register) mutation.
